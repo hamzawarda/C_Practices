@@ -7,5 +7,6 @@ int main(){
     pc=c;
     //*pc="Hello";
     printf("%s\n", "Hellllllo");
+    printf("%s\n", pc);
     return 0;
 }
